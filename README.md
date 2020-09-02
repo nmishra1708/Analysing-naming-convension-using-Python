@@ -1,7 +1,7 @@
 # Project Report
 ## Analysing naming convension using Python
 Domain –  General regional 
-## Objective– –
+## Objective –
 The United States Social Security Administra4on (SSA) has made available data on the frequency of baby names from 1880 through 2016, this data set is often used in illustrating data analytics.The project requires analyzing the dataconsidering different methods.
 
 ## The description of the dataset is mentioned below - 
